@@ -7,7 +7,7 @@ time in a day.
   **Python 3.8.3**
   
 # Usage 
-  You can either manually run the Python script in your command line(Windows) --> run as administrator. My program is intended to be run (be active) all the time.
+  You can either manually run the Python script in your command line(Windows) --> run as administrator for access the permission. My program is intended to be run (be active) all the time.
   
 
 # What you will see when the website you are trying visit is blocked
